@@ -35,6 +35,7 @@ Welcome to my GitHub profile! I’m a **Computer Science student** from 🇵🇭
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrfahrenheit0528&layout=compact&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=mrfahrenheit0528&theme=radical&border_radius=5)
 ---
 
 ## 🌟 Let's Connect!
