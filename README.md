@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m a **Computer Science student** from 🇵🇭
 ## 🚀 About Me
 - 🎓 College student passionate about **coding, problem-solving, and research**  
 - 💻 Exploring **Python, Machine Learning, and Web Development**  
-- 🌱 Currently working on: **[Your current project or subject]**  
+- 🌱 Currently serving as: **Director for Projects, JPCS-CSPC Chapter**  
 - 🎯 Goal: To become a **skilled developer** who creates useful and meaningful applications  
 - 😄 Fun fact: I survive long coding sessions with ☕ and music 🎶  
 
