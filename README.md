@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I’m a **Computer Science student** from 🇵🇭
 - 💻 Exploring **Python, Machine Learning, and Web Development**  
 - 🌱 Currently serving as: **Director for Projects, JPCS-CSPC Chapter**  
 - 🎯 Goal: To become a **skilled developer** who creates useful and meaningful applications  
-- 😄 Fun fact: I survive long coding sessions with ☕ and music 🎶  
 
 ---
 
