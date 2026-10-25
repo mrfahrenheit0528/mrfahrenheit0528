@@ -8,7 +8,7 @@
 
 I enjoy building practical software, experimenting with new technologies, and continuously improving my skills through projects, research, and hands-on learning.
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJuZ2VyZmNhMDFpN2hobXFwbncyb2RjZW0wd3ByYzh2dnNkbjBkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sJs1Ag97x0MV2/giphy.gif" width="260"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJocGVmMWRvcHJmYWN0YXFpZWZtb3JjM3J2cXVtcGtxanlwMHZqZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oz8jiKqcBTKnu/giphy.gif" width="260"/>
 
 </div>
 
